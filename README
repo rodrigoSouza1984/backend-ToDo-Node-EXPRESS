@@ -1,1 +1,7 @@
-Projeto backend de um sistema de tarefas a realizar
+backend feito com express e mongo db para uma lista de tarefas
+
+rodar o projeto 
+
+npm i 
+
+nodemon src/index.js
